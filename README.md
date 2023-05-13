@@ -11,6 +11,7 @@ v1.0 - Created by McKleans-Scripts
 ## Dependencies  ##
 - [QBCore Framework](https://github.com/qbcore-framework/qb-core)
 
+[Preview](https://youtu.be/Z7QYdG9dJKU)
 
 ## Key Features ##
  - McKleans Inspired
