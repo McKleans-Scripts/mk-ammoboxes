@@ -1,4 +1,4 @@
-# MK-AmmoBoxes by [McKleans-Scripts](https://mckleans-scripts.tebex.io/) | [Discord](https://discord.gg/DEWp9TP7p6) | [BuyMeACoffee](https://www.buymeacoffee.com/mcklean)
+# MK-AmmoBoxes by [McKleans-Scripts](https://mckleans-scripts.tebex.io/) | [Discord](https://discord.gg/DEWp9TP7p6) | [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/J3J1LMXYK)
 
 This script allows you to sell bulk ammo. Why not sell a box a box of ammo and have your players unpack their ammo.
 
@@ -6,6 +6,13 @@ This script allows you to sell bulk ammo. Why not sell a box a box of ammo and h
 ## Updated ##
 v1.0 - Created by McKleans-Scripts
  - Created May 2023
+
+v1.1 - oosayeroo update
+ - Config options
+   - You can now add your ammo to the config
+ - Cleaned up Client
+ - Cleaned up Server
+ - Thanks to Oosayeroo for this update
 
 
 ## Dependencies  ##
@@ -68,7 +75,7 @@ Add the following to your `inventory/html/js/app.js` search for harness and appl
 
 ## Step 7
 
-Add the following to your `inventory/client/main.lua` search for harness and apply it there
+Add the following to your `inventory/server/main.lua` search for harness and apply it there
 
 ```lua
 		---------- mk-ammoboxes vvvv 

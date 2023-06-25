@@ -4,7 +4,7 @@ lua54 'yes'
 
 name "MK-AmmoBoxes"
 author "McKleans-Scripts - https://discord.gg/DEWp9TP7p6"
-version "v1.0"
+version "v1.1"
 description "AmmoBoxes By McKleans-Scripts"
 
 client_scripts { 'client/*.lua', }
