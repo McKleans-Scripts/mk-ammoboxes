@@ -14,6 +14,9 @@ v1.1 - oosayeroo update
  - Cleaned up Server
  - Thanks to Oosayeroo for this update
 
+ v1.2 - Thank Sayer
+  - Give Ammo Fix
+
 
 ## Dependencies  ##
 - [QBCore Framework](https://github.com/qbcore-framework/qb-core)

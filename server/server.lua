@@ -27,7 +27,7 @@ RegisterNetEvent("mk-ammoboxes:RemoveUse", function(hp, data,item)
     end
 end)
 
-RegisterNetEvent("mk-ammoboxes:AddAmmo", function(hp, data,ammo)
+RegisterNetEvent("mk-ammoboxes:AddAmmo", function(ammo)
     local src = source
     local Player = QBCore.Functions.GetPlayer(src)
     Player.Functions.AddItem(ammo, 1)
